@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>6db08ec5-d7bd-443d-96ab-f2afcc14cd36</ProjectGuid>
+    <ProjectGuid>e6befb09-0dfd-4929-8a50-04f715a4ad98</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>FSISSystem</RootNamespace>
