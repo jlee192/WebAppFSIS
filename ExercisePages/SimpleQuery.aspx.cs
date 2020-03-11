@@ -20,7 +20,7 @@ namespace WebAppFSIS.ExercisePages
         {
             if (string.IsNullOrEmpty(TeamIDArg.Text))
             {
-                MessageLabel.Text = "Enter a region id value.";
+                MessageLabel.Text = "Enter a team id value.";
             }
             else
             {
@@ -46,12 +46,12 @@ namespace WebAppFSIS.ExercisePages
                     }
                     else
                     {
-                        MessageLabel.Text = "Region id must be greater than 0";
+                        MessageLabel.Text = "Team id must be greater than 0";
                     }
                 }
                 else
                 {
-                    MessageLabel.Text = "Region id must be a number.";
+                    MessageLabel.Text = "Team id must be a number.";
                 }
             }
         }
