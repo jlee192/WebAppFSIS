@@ -52,12 +52,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BLL\Dummy.cs" />
     <Compile Include="BLL\TeamController.cs" />
     <Compile Include="Class1.cs" />
-    <Compile Include="DAL\Dummy2.cs" />
     <Compile Include="DAL\FSISContext.cs" />
-    <Compile Include="ENTITIES\Dummy3.cs" />
     <Compile Include="ENTITIES\Team.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
