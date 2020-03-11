@@ -15,13 +15,13 @@ namespace WebAppFSIS.ExercisePages
     {
 
         /// <summary>
-        /// RegionIDArg control.
+        /// TeamIDArg control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox RegionIDArg;
+        protected global::System.Web.UI.WebControls.TextBox TeamIDArg;
 
         /// <summary>
         /// Fetch control.
@@ -42,21 +42,21 @@ namespace WebAppFSIS.ExercisePages
         protected global::System.Web.UI.WebControls.Label MessageLabel;
 
         /// <summary>
-        /// RegionID control.
+        /// TeamID control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label RegionID;
+        protected global::System.Web.UI.WebControls.Label TeamID;
 
         /// <summary>
-        /// RegionDescription control.
+        /// TeamName control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label RegionDescription;
+        protected global::System.Web.UI.WebControls.Label TeamName;
     }
 }
