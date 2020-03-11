@@ -53,7 +53,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BLL\TeamController.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="DAL\FSISContext.cs" />
     <Compile Include="ENTITIES\Team.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
